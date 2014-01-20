@@ -6,9 +6,9 @@
     "Marc Tamlyn <marc.tamlyn@gmail.com>",
     "Perry Roper <perryroper@gmail.com>"
   ],
+  "main": "angular-ext-q.js",
   "description": "",
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
