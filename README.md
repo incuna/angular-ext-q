@@ -1,4 +1,4 @@
-angular-ext-q
+# angular-ext-q
 
 An extension to angular's `$q` which provides easy ways to get extended
 deferred/promise objects.
@@ -9,7 +9,7 @@ The promise will be extended with a callback-collection method named
 according to the options passed. The callbacks can be triggered by using the
 method of the same name on the deferred object.
 
-Complete example:
+#### Complete example:
 
 ```javascript
 function getLongList() {
