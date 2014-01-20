@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    angular.module('angular-ext-q', [])
+    angular.module('angularExtQ', [])
         .factory('extQ', ['$q', function ($q) {
             var extendDeferredObj = function (deferred, name) {
                 var cbs = [];
