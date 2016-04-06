@@ -1,6 +1,6 @@
 # upcoming
 
-* Allow angular versions between 1.2 - 1.5.
+* Upgrade Angular compatibility to include 1.3, 1.4, and 1.5.
 
 # 1.0.1
 
