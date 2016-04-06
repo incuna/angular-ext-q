@@ -1,6 +1,6 @@
 # upcoming
 
-* Upgrade angular to 1.5.3
+* Allow angular versions between 1.2 - 1.5.
 
 # 1.0.1
 
